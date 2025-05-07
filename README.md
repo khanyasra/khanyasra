@@ -23,7 +23,6 @@
 - 🌐 Connect with me:
   📫 How to reach me www.linkedin.com/in/yasra-k-949303271
   
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: just brainstorming :)
 - 📩 Open to collaborations in cybersecurity, research, and CTF events. Let's secure the future together!
 <!---
